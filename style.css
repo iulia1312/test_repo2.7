@@ -1,0 +1,34 @@
+body{ 
+    margin: 0; 
+} 
+header 
+{ 
+    width: 100%; 
+    height: 8vw; 
+    background-color: peachpuff; 
+    text-align: center; 
+    margin-top: -1.4vw; 
+} 
+header h1{ 
+    padding-top: 2.5vw; 
+} 
+nav{ 
+    margin-top: -1.3vw; 
+    width: 30%; 
+    height: 30vw; 
+    background-color: pink; 
+} 
+.info{ 
+    margin-left: 29vw; 
+    background-color: burlywood; 
+    margin-top: -31.5vw; 
+    height: 30vw; 
+    margin-right: -1vw;
+} 
+footer{ 
+    width: 100%; 
+    height: 14.6vw; 
+    background-color: peachpuff; 
+    text-align: center; 
+    margin-top: -1.2vw; 
+}
